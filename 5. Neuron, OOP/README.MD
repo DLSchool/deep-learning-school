@@ -7,7 +7,7 @@
 4. [**[seminar]oop.ipynb**](./[seminar]oop.ipynb) -- тетрадь с основами **ООП**, которая использовалась на занятии. 
 5. [**[sem_solution]oop.ipynb**](./[sem_solution]oop.ipynb) -- тетрадь с решениями заданий предыдущей тетради по **ООП**. 
 6. [**[seminar]perceptron.ipynb**](./[seminar]perceptron.ipynb) -- тетрадь с реализацией **перцептрона**, которая использовалась на занятии. 
-7. [**[sem_solution]perceptron_neuron.ipynb**](./[sem_solution]perceptron_neuron.ipynb) -- тетрадь с решениями заданий предыдущей тетради. 
-8. [**[seminar]neuron.ipynb**](./[seminar]neuron.ipynb)  -- тетрадь с реализацией **нейрона**, которая использовалась на занятии. 
+7. [**[seminar]neuron.ipynb**](./[seminar]neuron.ipynb)  -- тетрадь с реализацией **нейрона**, которая использовалась на занятии. 
+8. [**[sem_solution]perceptron_neuron.ipynb**](./[sem_solution]perceptron_neuron.ipynb) -- тетрадь с решениями заданий предыдущих двух тетрадок.
 9. [**[seminar]neuron_logloss.ipynb**](./[seminar]neuron_logloss.ipynb)  -- тетрадь с реализацией **нейрона** c **Log Loss**, которая использовалась на занятии. 
 10. [**[homework]activations.ipynb**](./[homework]activations.ipynb)  -- тетрадь с домашним заданием.
