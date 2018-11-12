@@ -6,3 +6,4 @@
 3. [**[seminar1]cifar10.ipynb**](./[seminar1]cifar10.ipynb) --- тетрадь с нейросетью для классификации датасета **cifar10**.
 4. [**[seminar1]cifar10.ipynb**](./[seminar1]cifar10.ipynb) --- тетрадь с нейросетью для классификации датасета **notMnist**.
 5. [**[homework]dropout_regression.ipynb**](./[homework]dropout_regression.ipynb) --- тетрадь с домашним заданием.
+6. [**train**](./notMNIST_train.zip) и [**validation**](./notMNIST_val.zip) датасеты.
