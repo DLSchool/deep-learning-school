@@ -7,3 +7,5 @@
 4. [**[seminar]pytorch_basics.ipynb**](./[seminar]pytorch_basics.ipynb) --- тетрадь с основами **PyTorch**.
 5. [**[seminar]neuron_pytorch.ipynb**](./[seminar]neuron_pytorch.ipynb) --- тетрадь с реализацией нейрона на **PyTorch**.
 6. [**[seminar]mlp_pytorch.ipynb**](./[seminar]mlp_pytorch.ipynb) --- тетрадь с реализацией **Fully Connected** на **PyTorch**.
+7. [**[homework]fashionmnist_kaggle.ipynb**](./[homework]fashionmnist_kaggle.ipynb) --- домашнее задание на **kaggle**.
+8. [**sample_submission.csv**](./sample_submission.csv) --- пример решения для посылки на **kaggle**.
