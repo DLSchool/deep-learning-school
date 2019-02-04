@@ -9,8 +9,11 @@
 Вначале вы можете ознакомиться с [записью](https://www.youtube.com/watch?v=RviskFqwF3M&t=1s)  вводной лекции о глубоком обучении, нейронных сетях и искусственном интеллекте от сотрудника **iPavlov** Михаила Бурцева. Лекция достаточно общая и вы можете пропустить ее, если хотите сразу приступить к практике.
 #### 2. Настройка инструментов 
 Следующим шагом стоит приступить к установке всех инструментов. В данном курсе почти весь код мы будем писать в jupyter notebook. Такие тетрадки позволяют разделять код на ячейки и запускать по частям, что очень удобно для исследований. Тетрадки можно запускать у себя на компьютере или на сервисе Google Colab. Преимущество Colab в том, что вы сможете использовать бесплатную видеокарту, которая очень понадобится далее в курсе. 
+
 Разобраться с Colab и другими инструментами Вам поможет запись [семинара](https://www.youtube.com/watch?v=vMmM4_W4MTo)  и тетрадка, которую использовал семинарист  [[seminar]tools.ipynb](./[seminar]tools.ipynb) [<img src="https://colab.research.google.com/assets/colab-badge.svg" align="center">](https://colab.research.google.com/github/jantic/DeOldify/blob/master/DeOldify_colab.ipynb) (нажмите на эту кнопку, чтобы сразу открыть тетрадку в Colab).
 #### 3. Основы Python
 В течение всего семестра мы будем использовать язык **Python**, потому что он является самым популярным для глубокого обучения. Еще одно преимущество **Python** состоит в том, что можно очень быстро начать писать на нем работающие программы, даже если вы раньше с ним не сталкивались. 
+
 Если вы хотите узнать достаточно, чтобы продолжить наш курс, то Вам поможет все та же запись семинара и тетрадка с упражнениями [[seminar]python_basics.ipynb](./[seminar]python_basics.ipynb) [<img src="https://colab.research.google.com/assets/colab-badge.svg" align="center">](https://colab.research.google.com/github/jantic/DeOldify/blob/master/DeOldify_colab.ipynb) (после их выполнения вы можете свериться с нашими решениями [[seminar]python_basics_solutions.ipynb](./[seminar]python_basics_solutions.ipynb) [<img src="https://colab.research.google.com/assets/colab-badge.svg" align="center">]). 
+
 Если же вы хотите более глубокое и размеренное введение, то вам поможет этот [туториал](https://www.learnpython.org/) на английском.
