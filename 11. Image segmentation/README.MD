@@ -9,7 +9,7 @@
 #### 2. Segmentation
 В сегодняшнем занятии вместо PyTorch мы будем использовать другой фреймворк - Keras. Для его работы также необходим установленный Tensorflow. Если вы хотите обучать все на своем компьютере, то убедитесь, что для всех библиотек правильно настроена работа с GPU, иначе это займет очень большое время. В противном случае Вы можете использовать Colab.
 
-Разобраться с сегментацией Вам поможет [**запись**](https://www.youtube.com/watch?v=OWK8VlgJM4I) семинара и тетрадка, которую использовал семинарист [**seg_example_part.ipynb**](./seg_example_part.ipynb) [<img src="https://colab.research.google.com/assets/colab-badge.svg" align="center">](https://colab.research.google.com/github/jantic/DeOldify/blob/master/DeOldify_colab.ipynb). 
+Разобраться с сегментацией Вам поможет [**запись**](https://www.youtube.com/watch?v=OWK8VlgJM4I) семинара и тетрадка, которую использовал семинарист [**seg_example_part.ipynb**](./seg_example_part.ipynb) [<img src="https://colab.research.google.com/assets/colab-badge.svg" align="center">](https://drive.google.com/file/d/1Bei5oj_9eiDqGyKB_yyS7dc4Bgw5WU_W/view?usp=sharing). 
 
 #### 3. Домашнее задание 
-Вам предстоит попытаться улучшить модель сегментации. Для этого Вы можете изменять разные параметры модели и обучения, в этом Вам поможет тетрадка [**[homework]segmentation.ipynb**](./[homework]segmentation.ipynb) [<img src="https://colab.research.google.com/assets/colab-badge.svg" align="center">](https://colab.research.google.com/github/jantic/DeOldify/blob/master/DeOldify_colab.ipynb). 
+Вам предстоит попытаться улучшить модель сегментации. Для этого Вы можете изменять разные параметры модели и обучения, в этом Вам поможет тетрадка [**[homework]segmentation.ipynb**](./[homework]segmentation.ipynb) [<img src="https://colab.research.google.com/assets/colab-badge.svg" align="center">](https://colab.research.google.com/drive/1EBfSItVCRrJjPc8COzxHagTFqF5G0XT7). 
