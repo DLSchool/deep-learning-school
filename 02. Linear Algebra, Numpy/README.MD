@@ -7,15 +7,18 @@
 
 ### План занятия
 #### 1. Линейная алгебра, теория
-Если вы не знакомы с линейной алгеброй или хотите освежить базовые знания, то вы можете просмотреть [**запись**](https://www.youtube.com/watch?v=YlHVxQ5R4H4&t=1s) первой части семинара. Тетрадка, которую использовал семинарист поможет еще повторить все концепты после просмотра записи -  [**[seminar]linear_algebra.ipynb**](./[seminar]linear_algebra.ipynb) [<img src="https://colab.research.google.com/assets/colab-badge.svg" align="center">](https://colab.research.google.com/drive/1i2kjThUVjaVR-G4fNcVnRKh9uMq-8NJz). 
+Если вы не знакомы с линейной алгеброй или хотите освежить базовые знания, то вы можете просмотреть [**запись**](https://www.youtube.com/watch?v=YlHVxQ5R4H4&t=1s) первой части семинара. Тетрадка, которую использовал семинарист поможет еще повторить все концепты после просмотра записи -  [**[seminar]linear_algebra.ipynb**](./[seminar]linear_algebra.ipynb) [<img src="https://colab.research.google.com/assets/colab-badge.svg" align="center">](https://colab.research.google.com/drive/1AB_gZm0EUenXwcF-kmTb2nTHapEt-2PB). 
 
 Несмотря на то, что глубокое понимание **линейной алгебры** на уровне хорошего университетского будет несомненным плюсом, для прохождения курса не понадобится ничего, кроме базовых операций с матрицами и тензорами.
 
 #### 2. Библиотека NumPy 
 **NumPy** - мощная библиотека для **Python**, которая реализует операции с матрицами и векторами, про которые вы узнали ранее. Очень важно научится ей пользоваться, потому что api **PyTorch** (более продвинутой библиотеки для работы с тензорами, которую мы будем использовать для построения нейронных сетей позднее в курсе) похож на NumPy и следует той же логике.
 
-Познакомиться с **NumPy** Вам поможет [**запись**](https://www.youtube.com/watch?v=kSbjRclCMOs&t=5s) второй части семинара. Чтобы сделать просмотр эффективнее, останавливайте запись и выполняйте задания из тетради с записи [**[seminar]numpy.ipynb**](./[seminar]numpy.ipynb) [<img src="https://colab.research.google.com/assets/colab-badge.svg" align="center">](https://colab.research.google.com/drive/1za9evwqxgZRb4S8p8cBH6ECbEaLZtw-Q) 
+Познакомиться с **NumPy** Вам поможет [**запись**](https://www.youtube.com/watch?v=kSbjRclCMOs&t=5s) второй части семинара. Чтобы сделать просмотр эффективнее, останавливайте запись и выполняйте задания из тетради с записи [**[seminar]numpy.ipynb**](./[seminar]numpy.ipynb) [<img src="https://colab.research.google.com/assets/colab-badge.svg" align="center">](https://colab.research.google.com/drive/1g09YewT5tiORRHjNsvKM-59aL5wzHRnQB) 
 
 #### 3. Домашнее задание по NumPy
-Изучить такую обширную библиотеку с первого раза невозможно, поэтому важно выполнить **домашнюю работу** [**[homework]numpy.ipynb**](./[homework]numpy.ipynb) [<img src="https://colab.research.google.com/assets/colab-badge.svg" align="center">](https://colab.research.google.com/drive/16aZ-ojc2YLQzm46J0vrhNSgWH21J8QMj). Если Вы участвуете в курсе, то Вы можете проверить ответы и получить оценку, которая нужна для закрытия курса, на **canvas** нашего курса. Не слушатели, к сожалению, не имеют возможности свериться, но Вы можете присоединиться к следующей итерации курса как онлайн слушатель на нашем сайте.
+Изучить такую обширную библиотеку с первого раза невозможно, поэтому важно выполнить **домашнюю работу** [**[homework]numpy.ipynb**](./[homework]numpy.ipynb) [<img src="https://colab.research.google.com/assets/colab-badge.svg" align="center">](https://colab.research.google.com/drive/1ZwgR3ANspp4QMWY_J9Pf6UBsNkvovWhz). Если Вы участвуете в курсе, то Вы можете проверить ответы и получить оценку, которая нужна для закрытия курса, на **canvas** нашего курса. Не слушатели, к сожалению, не имеют возможности свериться, но Вы можете присоединиться к следующей итерации курса как онлайн слушатель на нашем сайте.
+
+#### 4. Дополнительные материалы
+Узнать больше о линейной алгебре Вы можете на отличном сайте [http://www.mathprofi.ru/vektory_dlya_chainikov.html](http://www.mathprofi.ru/vektory_dlya_chainikov.html). Там есть много объяснений вещей, которые проходятся в университетах, простым языком. Также есть очень интересный канал [3Blue1Brown](https://www.youtube.com/watch?v=fNk_zzaMoSs) с видео на английском языке, в которых автор пытается показать интуицию, которая стоит за сложными математическими объектами.
 
