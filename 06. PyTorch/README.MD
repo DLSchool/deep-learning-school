@@ -9,6 +9,7 @@
 #### 2. PyTorch
 Существует много разных фреймворков для создания нейросетей, и самый популярный из них - TensorFlow, но в нашем курсе мы будем использовать PyTorch, потому что он намного быстрее развивается и в целом проще в освоении. Его API очень похож на API numpy, поэтому Вам будет легче, если Вы уже понимаете принципы работы numpy и знаете его основные функции.
 
+<<<<<<< HEAD
 Чтобы изучить основные функции, которые есть в PyTorch, посмотрите [**запись**](https://www.youtube.com/watch?v=UoBYayBPh84) семинара и выполните задания в тетрадке [**[seminar]pytorch_basics.ipynb**](./[seminar]pytorch_basics.ipynb) [<img src="https://colab.research.google.com/assets/colab-badge.svg" align="center">](https://colab.research.google.com/drive/1Wrur4sqHVO0MQLX0-9ifBsD79HXWUtUF). При изучении таких больших фреймворков может оказаться полезным [шпаргалка](https://pytorch.org/tutorials/beginner/ptcheat.html) по основным функциям, которая находится на официальном сайте PyTorch.
 
 #### 3. PyTorch Neuron
@@ -19,3 +20,15 @@
 
 #### 5. Домашнее задание
 Сегодня домашним заданием будет соревнование на kaggle. Ращобраться с тем, что делать Вам поможет тетрадка [**[homework]fashionmnist_kaggle.ipynb**](./[homework]fashionmnist_kaggle.ipynb) [<img src="https://colab.research.google.com/assets/colab-badge.svg" align="center">](https://colab.research.google.com/drive/12i5o9-QI4E8l3xLxndLpoLHSaCKsTpkF) (файл sample_submission.csv будет недоступен из Colab, но он есть в этом репозитории). Если Вы официально прослушиваете наш курс, то в зависимости от Вашей точности Вы получите оценку.
+=======
+Чтобы изучить основные функции, которые есть в PyTorch, посмотрите [**запись**](https://www.youtube.com/watch?v=UoBYayBPh84) семинара и выполните задания в тетрадке [**[seminar]pytorch_basics.ipynb**](./[seminar]pytorch_basics.ipynb) [<img src="https://colab.research.google.com/assets/colab-badge.svg" align="center">](https://colab.research.google.com/drive/1a92_JCCx53wmnULZ9wQp1NaLvv_X05Ov). При изучении таких больших фреймворков может оказаться полезным [шпаргалка](https://pytorch.org/tutorials/beginner/ptcheat.html) по основным функциям, которая находится на официальном сайте PyTorch.
+
+#### 3. PyTorch Neuron
+На прошлом занятии Вы создавали свой нейрон с помощью NumPy, теперь пришло время сделать то же самое, но с помощью PyTorch. Тетрадка [**[seminar]neuron_pytorch.ipynb**](./[seminar]neuron_pytorch.ipynb) [<img src="https://colab.research.google.com/assets/colab-badge.svg" align="center">](https://colab.research.google.com/drive/12Jg7vbA-rOTv6zuxxS1AIBeOWqSp6PfM) , в которую нужно вписать части кода поможет Вам в этом. Также в записи семинара семинарист разбирает, как это сделать. Выполнив тетрадь Вы можете сравнить, насколько различаются реализации на Numpy и PyTorch.
+
+#### 4. PyTorch Fully Connected
+Пришло время написать свою первую настоящую нейросеть - полносвязную сеть (Fully Connected или Dense, причем так же называют не только сеть, но слои, из которых она состоит - такие слои, в которых каждый нейрон связан с каждым предыдущим). Как всегда Вы можете использовать тетрадку [**[seminar]mlp_pytorch.ipynb**](./[seminar]mlp_pytorch.ipynb) [<img src="https://colab.research.google.com/assets/colab-badge.svg" align="center">](https://colab.research.google.com/drive/1ClbqFaL4KfiBNRNKIHwzRYogp4pGo6Nl) с пропущенным кодом, смотря запись семинара в случае трудностей.
+
+#### 5. Домашнее задание
+Сегодня домашним заданием будет соревнование на kaggle. Ращобраться с тем, что делать Вам поможет тетрадка [**[homework]fashionmnist_kaggle.ipynb**](./[homework]fashionmnist_kaggle.ipynb) [<img src="https://colab.research.google.com/assets/colab-badge.svg" align="center">](https://colab.research.google.com/drive/1yEtpAUlaVKhkU2oSKddwdEQpUf_Yzt0-) (файл sample_submission.csv будет недоступен из Colab, но он есть в этом репозитории). Если Вы официально прослушиваете наш курс, то в зависимости от Вашей точности Вы получите оценку.
+>>>>>>> b78b123b973c5c08cbd4325a49bcd349ae10a993
