@@ -12,3 +12,5 @@
 #### 3. Сверточные нейросети на PyTorch
 Теперь пришло время использовать наши теоретические знания и создать свою сверточную нейросеть на PyTorch для классификации cifar10. Чтобы понять, как это делать просмотрите объяснения и сделайте задачи в ноутбуке [**[seminar]convnet_pytorch.ipynb**](./[seminar]convnet_pytorch.ipynb) [<img src="https://colab.research.google.com/assets/colab-badge.svg" align="center">](https://colab.research.google.com/drive/1OqQ4r0lo-Mm-6JBmNu9wsD_MfLbWwg7s), с выполнением заданий Вам поможет запись семинара, ссылка на которую есть выше. После выполнения вы можете заметить, насколько лучше сверточные нейросети подходят для классификации картинок, чем просто полносвязные.
 
+#### 4. Домашняя работа
+Домашняя работа в этом занятии очень объемная, поэтому стоит приступить к ней как можно раньше. Тетрадка [**[homework]cnn.ipynb**](./[homework]cnn.ipynb) [<img src="https://colab.research.google.com/assets/colab-badge.svg" align="center">](https://colab.research.google.com/drive/1J2i64P4KQMC5mkE_bYwP2XuKj7-rISo-)
