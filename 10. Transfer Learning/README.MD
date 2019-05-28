@@ -9,10 +9,6 @@
 #### 2. Transfer learning
 Необходимость каждый раз обучать нейросеть значительно затрудняет глубокое обучение, ведь чтобы получить хорошую сеть нужно много данных и много вычислительных мощностей. Зачастую же нет ни того, ни другого. В таких случаях используются уже обученные на больших датасетах сети, а их веса только немного подгоняются под конкретную задачу. 
 
-<<<<<<< HEAD
 Подробнее о том, как экономить ресурсы и получать более высокое качество вы можете узнать из лекции-семинара по Transfer learning. [**Запись**](https://www.youtube.com/watch?v=U12tq9l9xy8) доступна по ссылке, также в изучении Вам поможет тетрадка, которая содержит основную информацию из семинара [**[seminar]transfer_learning.ipynb**](./[seminar]transfer_learning.ipynb) [<img src="https://colab.research.google.com/assets/colab-badge.svg" align="center">](https://colab.research.google.com/drive/1qZk0NgPIH1kzBbsfF61PBuyyGIAxUlFQ). 
-=======
-Подробнее о том, как экономить ресурсы и получать более высокое качество вы можете узнать из лекции-семинара по Transfer learning. [**Запись**](https://www.youtube.com/watch?v=U12tq9l9xy8) доступна по ссылке, также в изучении Вам поможет тетрадка, которая содержит основную информацию из семинара [**[seminar]transfer_learning.ipynb**](./[seminar]transfer_learning.ipynb) [<img src="https://colab.research.google.com/assets/colab-badge.svg" align="center">](https://colab.research.google.com/drive/1SyCc7L4NVBbGmPn0L_DDhNpMdLHEqsMT). 
->>>>>>> b78b123b973c5c08cbd4325a49bcd349ae10a993
 
 Несмотря на то, что мы используем небольшие сети и transfer learning, обучение моделей из тетради все равно занимает порядка минут, поэтому Вы можете использовать уже обученные веса - все .pth файлы, лежащие в данном папке репозитория.
