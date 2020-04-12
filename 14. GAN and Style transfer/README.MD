@@ -3,11 +3,20 @@
 Приветствуем Вас на **четырнадцатом** занятии нашего курса. Сегодня мы познакомимся с еще двумя архитектурами нейронных сетей - сети для  переноса стиля с одной картинки на другую и GAN'ы.
 
 ### План занятия
+
 #### 1. Neural Style Transfer
+
 Neural style transfer - техника, которая позволяет перенести стиль одной картинки на другую. Картинка, с которой переносится стиль называется style image, а так, на которую переносится стиль, называется content image (потому что с нее мы берем содержание, т.е. content). 
-![content and style image](https://cdn-images-1.medium.com/max/1040/0*h5YONGux0M4j1Bdf)
-Их таких двух картинок получится результат:
-![результирующая картинка](https://cdn-images-1.medium.com/max/1040/0*qdJ0aARvEcEuJ92l)
+
+<p align="center">
+<img src="https://cdn-images-1.medium.com/max/1040/0*h5YONGux0M4j1Bdf" width=600>
+</p> 
+
+Из таких двух картинок получится результат:
+<p align="center">
+<img src="https://cdn-images-1.medium.com/max/1040/0*qdJ0aARvEcEuJ92l" width=400>
+</p> 
+
 Научиться делать такие же картинки с помощью самого простого алгоритма переноса стиля Вам поможет первая часть [записи](https://www.youtube.com/watch?v=u2HDm7YSwoA) семинара и тетрадка  [**[seminar]style_transfer.ipynb**](./[seminar]style_transfer.ipynb) [<img src="https://colab.research.google.com/assets/colab-badge.svg" align="center">](https://colab.research.google.com/drive/1BqdDSsUkkzvxcXWzu96VaQGUb943nAV-). 
 
 #### 2. GAN
