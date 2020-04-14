@@ -17,7 +17,7 @@ CIFAR10 - один из датасетов-бенчмарков, на котор
 
 Вторым датасетом, с которым Вам предстоит работать, является notMNIST (также очень известный датасет). Большинство шагов  в обучении будут теми же, второй датасет нужен для закрепления и знакомства с ним. Вы можете начать в ноутбуке [**[seminar2]notmnist.ipynb**](./[seminar2]notmnist.ipynb) [<img src="https://colab.research.google.com/assets/colab-badge.svg" align="center">](https://colab.research.google.com/drive/1reFpIeEh8r2Gzi6ePggyHfuHYwgG3B_e), используя [**запись второго семинара**](https://www.youtube.com/watch?v=h9bLT3c4_xw). 
 
-В этом ноутбуке используется уже разделенный на train/test датасет, он не будет доступен в Google Colab изначально. Вы можете скачать его с репозитория и добавить в Colab любым удобным способом, или запустить все у себя на компьютере. Ссылки на датасеты - [**notMNIST_train**](./notMNIST_train.zip) и [**notMNIST_val**](./notMNIST_val.zip).
+В этом ноутбуке используется уже разделенный на train/test датасет, он не будет доступен в Google Colab изначально. Вы можете скачать его с репозитория и добавить в Colab любым удобным способом, или запустить все у себя на компьютере. Ссылки на датасеты - [**notMNIST_train**](https://drive.google.com/file/d/1mvcy8yBJ64rO26C7LC3H4hQXM40EDWau/view?usp=sharing) и [**notMNIST_val**](https://drive.google.com/file/d/1Tm-5_2-OrakO0KJefqZBZqoF4dmFQyol/view?usp=sharing).
 
 ### Домашнее задание
 
