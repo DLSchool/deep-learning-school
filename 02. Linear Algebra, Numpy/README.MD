@@ -27,4 +27,4 @@
 
 ### Дополнительные материалы
 
-Узнать больше о линейной алгебре вы можете на отличном сайте [MathProfi][http://www.mathprofi.ru/vektory_dlya_chainikov.html](http://www.mathprofi.ru/vektory_dlya_chainikov.html). Также есть очень интересный канал [3Blue1Brown](https://www.youtube.com/watch?v=fNk_zzaMoSs) с видео на английском языке, в которых автор рассказывает и **показывает** интуицию, которая стоит за сложными математическими объектами.
+Узнать больше о линейной алгебре вы можете на отличном сайте [MathProfi](http://www.mathprofi.ru/vektory_dlya_chainikov.html). Также есть очень интересный канал [3Blue1Brown](https://www.youtube.com/watch?v=fNk_zzaMoSs) с видео на английском языке, в которых автор рассказывает и **показывает** интуицию, которая стоит за сложными математическими объектами.
