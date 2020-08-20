@@ -1,10 +1,10 @@
-# Deep Learning School
+<h1 style="text-align:center">Deep Learning School</h1>
 
-<p align=center>
+<p align="center">
  <img src="_static/logo_readme.png" width=1280>
 </p>
 
-Официальный сайт: https://www.dlschool.org/
+<p align="center">Официальный сайт: https://www.dlschool.org/</p>
 
 Школа глубокого обучения (Deep Learning School) — кружок от ФПМИ МФТИ, рассчитанный на старшеклассников, интересующихся программированием и математикой, а также студентов, которые хотят начать заниматься глубоким обучением. Занятия ведут студенты Физтех-школы прикладной математики и информатики МФТИ.
 
