@@ -17,9 +17,9 @@
 
 Следующим шагом стоит приступить к установке всех инструментов. В данном курсе почти весь код мы будем писать в **Jupyter Notebook**. Такие "ноутбуки" (иногда их называют еще "тетрадки") позволяют разделять код на ячейки и запускать по частям, что очень удобно для исследований. Их можно запускать у себя на компьютере или на сервисе **[Google Colab](https://colab.research.google.com/)**. Преимущество Colab в том, что вы сможете использовать **бесплатную видеокарту (GPU)**, которая очень понадобится далее в курсе. 
 
-Разобраться с Colab и другими инструментами Вам поможет [запись семинара](https://www.youtube.com/watch?v=vMmM4_W4MTo)  и ноутбук, которую использует семинарист: [**[seminar]tools.ipynb**](./[seminar]tools.ipynb) [<img src="https://colab.research.google.com/assets/colab-badge.svg" align="center">](https://colab.research.google.com/drive/18CMRhHcS-4EsWBjffHMZ-_oFAJkNtLtD) (нажмите на эту кнопку, чтобы сразу открыть тетрадку в Colab). 
+Разобраться с Colab и другими инструментами Вам поможет [запись семинара](https://www.youtube.com/watch?v=vMmM4_W4MTo)  и ноутбук, которую использует семинарист: [**[seminar]tools.ipynb**](./[seminar]tools.ipynb) [<img src="https://colab.research.google.com/assets/colab-badge.svg" align="center">](https://drive.google.com/file/d/1sWJxh1HFY6DBA-xKByCgtDMXKBadfGa2/view?usp=sharing) (нажмите на эту кнопку, чтобы сразу открыть тетрадку в Colab). 
 
-Также в нашем курсе используется командная строка и команды **Bash**. Описание основных моментов работы с bash есть в ноутбуке [**[optional]bash.ipynb**](./[optional]bash.ipynb) [<img src="https://colab.research.google.com/assets/colab-badge.svg" align="center">](https://colab.research.google.com/drive/1U3ogXYIbdDdJdMUAbB57d58DRmnaafhD).
+Также в нашем курсе используется командная строка и команды **Bash**. Описание основных моментов работы с bash есть в ноутбуке [**[optional]bash.ipynb**](./[optional]bash.ipynb) [<img src="https://colab.research.google.com/assets/colab-badge.svg" align="center">](https://colab.research.google.com/drive/1P0RE43Ih9J9TmXkrpgfNwjFgsRIF3BPe).
 
 ### Семинар: Основы Python
 
@@ -30,3 +30,5 @@
 Для тех, кто хочет попробовать сделать более сложные задания, есть дополнительный ноутбук [[seminar]python_extension.ipynb](./[seminar]python_extension.ipynb) [<img src="https://colab.research.google.com/assets/colab-badge.svg" align="center">](https://colab.research.google.com/drive/1HNcANrXWmfki2ctJ3tDEBro56YXe2f9a#scrollTo=cglQ6JNB2d2v)
 
 Если же вы хотите более "плавное" в Python, то вам поможет этот [туториал](https://www.learnpython.org/) на английском.
+А также эти курсы на Степике: [Программирование на Python](https://stepik.org/course/67/), ["Поколение Python": курс для начинающих](https://stepik.org/course/58852/).
+
