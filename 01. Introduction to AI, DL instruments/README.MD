@@ -11,7 +11,7 @@
 
 ### Лекция: Введение в Глубокое обучение (Deep Learning)
 
-Вначале рекомендуем ознакомиться с [записью вводной лекции](https://www.youtube.com/watch?v=RviskFqwF3M&t=1s) о глубоком обучении, нейронных сетях и искусственном интеллекте от главы лаборатории **iPavlov** Михаила Бурцева.
+Вначале рекомендуем ознакомиться с [записью вводной лекции](https://www.youtube.com/watch?v=RviskFqwF3M) о глубоком обучении, нейронных сетях и искусственном интеллекте от главы лаборатории **iPavlov** Михаила Бурцева.
 
 ### Семинар: Настройка инструментов 
 
@@ -30,5 +30,6 @@
 Для тех, кто хочет попробовать сделать более сложные задания, есть дополнительный ноутбук [[seminar]python_extension.ipynb](./[seminar]python_extension.ipynb) [<img src="https://colab.research.google.com/assets/colab-badge.svg" align="center">](https://colab.research.google.com/drive/1HNcANrXWmfki2ctJ3tDEBro56YXe2f9a#scrollTo=cglQ6JNB2d2v)
 
 Если же вы хотите более "плавное" в Python, то вам поможет этот [туториал](https://www.learnpython.org/) на английском.
+
 А также эти курсы на Степике: [Программирование на Python](https://stepik.org/course/67/), ["Поколение Python": курс для начинающих](https://stepik.org/course/58852/).
 
