@@ -31,5 +31,5 @@
 
 Если же вы хотите более "плавное" в Python, то вам поможет этот [туториал](https://www.learnpython.org/) на английском.
 
-А также эти курсы на Степике: [Программирование на Python](https://stepik.org/course/67/), ["Поколение Python": курс для начинающих](https://stepik.org/course/58852/).
+И эти курсы на Степике: [Программирование на Python](https://stepik.org/course/67/), ["Поколение Python": курс для начинающих](https://stepik.org/course/58852/).
 
