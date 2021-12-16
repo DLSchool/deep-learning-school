@@ -2,7 +2,7 @@
 # 1. Introduction to Artificial Intelligence
 
 <p align=center>
-  <img src="https://nachasi.com/wp-content/uploads/2019/06/AI-g20-2.jpg" width=600>
+  <img src="https://www.ixbt.com/img/n1/news/2020/3/4/AI-g20-2_large.jpg" width=600>
 </p>
 
 Приветствуем вас на **первом** занятии **первого** семестра нашего курса! Сегодня мы познакомимся с тем, что такое глубокое обучение и в каком состоянии оно находится сегодня, а также настроим основные инструменты.
