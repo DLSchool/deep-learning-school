@@ -1,7 +1,7 @@
 
-# 14. GANs and Style Transfer
+# 26. Генеративные модели
 
-Приветствуем Вас на **четырнадцатом** занятии нашего курса. Сегодня мы познакомимся с еще двумя архитектурами нейронных сетей - сети для **переноса стиля** с одной картинки на другую и **GAN**'ы.
+Сегодня мы познакомимся с еще двумя архитектурами нейронных сетей - сети для **переноса стиля** с одной картинки на другую и **GAN**'ы.
 
 ### Neural Style Transfer
 
@@ -16,7 +16,10 @@ Neural Style Transfer - техника, которая позволяет пер
   <img src="https://cdn-images-1.medium.com/max/1040/0*qdJ0aARvEcEuJ92l" width=400>
 </p> 
 
-Научиться делать такие же картинки с помощью самого простого алгоритма переноса стиля, вам поможет первая часть [**записи семинара**](https://www.youtube.com/watch?v=u2HDm7YSwoA) и соответствующий ноутбук: [**[seminar]style_transfer.ipynb**](./[seminar]style_transfer.ipynb) [<img src="https://colab.research.google.com/assets/colab-badge.svg" align="center">](https://colab.research.google.com/drive/1BqdDSsUkkzvxcXWzu96VaQGUb943nAV-). 
+Лекция:
+
+Часть 1: [**Генеративные модели, автоэнкодеры**](https://www.youtube.com/watch?v=6qVfC7P9dEc)
+Часть 2: [**Генеративные модели. Генеративно-состязательные сети**](https://www.youtube.com/watch?v=An20DOEOctc)
 
 ### Generative Adversarial Network (GAN)
 
@@ -29,12 +32,12 @@ Neural Style Transfer - техника, которая позволяет пер
   
 В действительности... оба лица нарисованы нейросетью :)
 
-Чтобы более детально узнать как работают GAN'ы, предлагаем посомтреть вторую часть [**записи нашего семинара**](https://www.youtube.com/watch?v=u2HDm7YSwoA) и прорешать ноутбук: [**[seminar]GAN.ipynb**](./[seminar]GAN.ipynb) [<img src="https://colab.research.google.com/assets/colab-badge.svg" align="center">](https://colab.research.google.com/drive/1YPflMzL6agRm0ki_a-qnS2pPryTxvaEk). Также вам помогут [слайды](./gan.pptx), которые использовались на семинаре.
+Чтобы более детально узнать как работают GAN'ы, предлагаем посомтреть вторую часть [**записи нашего семинара**](https://www.youtube.com/watch?v=Anocy4ey0vs) и прорешать ноутбук: [**[seminar]gan.ipynb**](./[seminar]gan.ipynb) [<img src="https://colab.research.google.com/assets/colab-badge.svg" align="center">](https://colab.research.google.com/drive/1Ub3c79XxiGmHOqKnuSDtjE5TscWhJVak). Также вам помогут [слайды](./Generative models pt.2.pdf), которые использовались на семинаре.
 
 ---
 
 ## Заключение
 
-Это было последнее занятие первого семестра. Спасибо за время, которое вы уделили нашему курсу! Если Вы официально прослушиваете наш курс, то следующим шагом станет **финальный проект** по первой части курса. 
+Это последнее занятие первого семестра. Спасибо за время, которое вы уделили нашему курсу! Если Вы официально прослушиваете наш курс, то следующим шагом станет **финальный проект** по первой части курса. 
 
 Желаем вам удачи и надеемся увидеться в следующем семестре, где мы рассмотрим еще более интересные темы из мира глубокого обучения.
