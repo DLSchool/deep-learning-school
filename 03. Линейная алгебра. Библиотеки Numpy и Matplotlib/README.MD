@@ -1,5 +1,5 @@
 
-# 03. Линейная алгебра. Библиотеки Numpy и Matplotlib
+### 03. Линейная алгебра. Библиотеки Numpy и Matplotlib
 
 <p align=center>
   <img src="https://miro.medium.com/max/800/1*V83L4ydCdk21tXjP22VjXQ.jpeg" width=600>
