@@ -1,4 +1,3 @@
-### 
+### 02. Домашнее задание. Основы Python
 
-
-
+Следующие несколько заданий подразумевают выполнение программ. Предполагается, что при решении вы будете использовать Jupyter Notebook или Google Colab. [Удобная версия домашнего задания есть на колабе](./[homework]python_intro.ipynb)[<img src="https://colab.research.google.com/assets/colab-badge.svg" align="center">](https://colab.research.google.com/drive/1rqahhh78dppv7G-Sr68vVxIW4LWGUogK). Очень рекомендуем решать задания именно внутри ноутбука, а не прямо в тестирующей системе: там есть тесты, легче дебагать, и это ещё один повод освоить Colab или Jupyter Notebook.
