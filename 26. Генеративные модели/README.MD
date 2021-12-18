@@ -16,9 +16,10 @@ Neural Style Transfer - техника, которая позволяет пер
   <img src="https://cdn-images-1.medium.com/max/1040/0*qdJ0aARvEcEuJ92l" width=400>
 </p> 
 
-Лекция:
+**Лекция:**
 
 Часть 1: [**Генеративные модели, автоэнкодеры**](https://www.youtube.com/watch?v=6qVfC7P9dEc)
+
 Часть 2: [**Генеративные модели. Генеративно-состязательные сети**](https://www.youtube.com/watch?v=An20DOEOctc)
 
 ### Generative Adversarial Network (GAN)
