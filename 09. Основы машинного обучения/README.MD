@@ -1,34 +1,45 @@
 
-# 5. Один нейрон и ООП в Python
+# 3. Introduction to Machine Learning
 
-Приветствуем Вас на **пятом** занятии нашего курса. Сегодняшнее занятие будет очень насыщенным, потому что мы изучим важную для программирования парадигму - **ООП**, напишем свой первый **нейрон**, узнаем несколько новых **функций потерь** и что такое **функции активации**.
+Приветствуем вас на **третьем** занятии нашего курса. Сегодня мы узнаем про **классическое машинное обучение**. Глубокое обучение обычно считается **частью** машинного обучения и по сути отличается от классических методов лишь устройством  обучаемой модели. Для классического машинного обучения - это **решающие деревья, линейная регрессия и т.д.**, а для глубокого - **нейронные сети**. В то же время изучить основные этапы работы с данными легче, когда моделью является решающее дерево.
 
 <p align=center>
-  <img src="https://cs231n.github.io/assets/nn1/neuron_model.jpeg" width=500>
+  <img src="https://sun9-3.userapi.com/c830508/v830508404/1c016d/QaHblsjxJ7k.jpg" width=600>
 </p>
 
-### ООП в Python
+Нв этом занятии важнее всего научиться работе с инструментами, которые помогают работать с данными - Pandas и Matplotlib.
+При решении тетрадей Вы можете встретить какие-либо функции языка Python, которые не видели раньше. В этом случае необходимо **использовать поиск** или **найти информацию в документации**. Почти всегда такая информация будет на первой странице поисковика. Библиотеки, которые мы используем, содержат много функций, поэтому важно научиться **самостоятельно** пользоваться документацией.
 
-Перед изучением основного материала ознакомьтесь с основными моментами Объектно Ориентированного Программирования в Python. Если до этого Вы проходили хороший курс по Python, то сразу переходите дальше, иначе вы можете посмотреть начало [**записи семинара**](https://www.youtube.com/watch?v=gsPbqq-HYfg), выполнив задания в тетрадке [**[seminar]oop.ipynb**](./[seminar]oop.ipynb) [<img src="https://colab.research.google.com/assets/colab-badge.svg" align="center">](https://colab.research.google.com/drive/1d6OLYtrd7_M0rNx3sjBWNo9Lrkw2IPYM). После выполнения можно свериться с ответами в решенной тетрадке [**[sem_solution]oop.ipynb**](./[sem_solution]oop.ipynb) [<img src="https://colab.research.google.com/assets/colab-badge.svg" align="center">](https://colab.research.google.com/drive/1b7FvehsBF4pR1Eep9XNJopU-Ou2Vbzo6). 
+### Лекция: Основы машинного обучения
 
-### Лекция: Устройство нейрона в машинном обучении
+Лекция дает не только общее представление о машинном обучении, но и вводит концепции, которые будут важны в глубоком обучении. Также в конце лектор рассказывает о методе ближайших соседей, по которому будет домашнее задание. Эта лекция важна и ее **не стоит пропускать**. [**Запись лекции**](https://www.youtube.com/watch?v=JSeo5mYmpuU) доступна по ссылке.
 
-Начать стоит с просмотра лекции: информация из нее поможет дальше понимать, что из себя представляет код, который Вы пишете. Лектор подает идеи, отталкиваясь от линейных моделей, которые мы изучили ранее, поэтому вам стоит повторить основные моменты из предыдущего занятия. [**Запись лекции**](https://www.youtube.com/watch?v=7U1Z39tFyTo) и её [**слайды**]([lecture]neuron.pdf).
+Также дополнительную информацию о машинном обучении простым языком вы можете найти в ноутбуке [**[seminar]ml_basics.ipynb**](./[seminar]ml_basics.ipynb) [<img src="https://colab.research.google.com/assets/colab-badge.svg" align="center">](https://colab.research.google.com/drive/1d95RI9ONwSc4ObiGSDw_euH8B2QuIoxu). 
 
-### Семинар: Перцептрон 
+Очень важно всегда помнить основные **функции потерь**. Их список вы найдете в ноутбуке [**[seminar]loss_functions.ipynb**](./[seminar]loss_functions.ipynb) [<img src="https://colab.research.google.com/assets/colab-badge.svg" align="center">](https://colab.research.google.com/drive/1SGulXic8nNjRZZdAzBX5yUQDMwglKOWF). 
 
-Теперь пришло время написать свой первый **перцептрон**, о котором было рассказано в лекции. Для этого откройте тетрадку [**[seminar]perceptron.ipynb**](./[seminar]perceptron.ipynb) [<img src="https://colab.research.google.com/assets/colab-badge.svg" align="center">](https://colab.research.google.com/drive/1TW68wShY8MNGeTMMU_hQjIlDfMEHtn_7) и напишите недостающий код. Вам может помочь [**запись семинара**](https://www.youtube.com/watch?v=gsPbqq-HYfg) (сразу после ООП). Свериться можно с [**[sem_solution]perceptron.ipynb**](./[sem_solution]perceptron.ipynb) [<img src="https://colab.research.google.com/assets/colab-badge.svg" align="center">](https://colab.research.google.com/drive/16xNAwgeMrao-YfdjES0ZukPgz4wMzPbZ)
+### Pandas
 
-### Семинар: Нейрон
+На семинарах мы переходим к изучению инструментов, которые являются основным фокусом данного занятия. 
 
-Пришло время написать свой **нейрон**. По сути, для этого нужно просто изменить функцию активации в перцептроне. Предлагаем дописать недостающий код в [**[seminar]neuron.ipynb**](./[seminar]neuron.ipynb) [<img src="https://colab.research.google.com/assets/colab-badge.svg" align="center">](https://colab.research.google.com/drive/1KkDoa7X46koYVzL48ZNDcDlfDL3XeiQx). Разобраться с непонятными моментами вам помогут комментарии и пояснения внутри. 
+Pandas - очень популярная библиотека для работы с табличными данными (обычно они записаны в формате .xls или **.csv**). Большинство доступных данных имеют именно такой вид, поэтому Pandas часто используется при подготовке данных. 
+	
+Для нашего курса будет достаточно познакомиться с основной функциональностью. [**Запись первой части семинара**](https://www.youtube.com/watch?v=-MZgt5pTS4g) даст вам достаточно умений, если одновременно решать [**[seminar]pandas.ipynb**](./[seminar]pandas.ipynb) [<img src="https://colab.research.google.com/assets/colab-badge.svg" align="center">](https://colab.research.google.com/drive/1PsPo1BHd99evSphfE14FbgJWiAj5FU_k).
 
-После написания вы можете свериться с [**[sem_solution]neuron.ipynb**](./[sem_solution]neuron.ipynb) [<img src="https://colab.research.google.com/assets/colab-badge.svg" align="center">](https://colab.research.google.com/drive/1DSF3FuRDbyJI6RVZl0Z0T0OXiGbC5AO3)
+### Matplotlib
 
-### Семинар: LogLoss
+Продолжая изучать полезные инструменты, мы переходим к библиотеке для построения графиков - **Matplotlib**. Далее в курсе **matplotlib** будет использоваться как для построения разнообразных графиков, так и для показа **изображений (картинок)**.
 
-Как мы и обещали, пришло время узнать про новую функцию потерь - **LogLoss**. Для изучения досмотрите до конца запись семинара и решите ноутбук [**[practice]neuron_logloss.ipynb**](./[pactice]neuron_logloss.ipynb) [<img src="https://colab.research.google.com/assets/colab-badge.svg" align="center">](https://colab.research.google.com/drive/1EAvKdylm_OUEs9PSK0gyAuXD0mXI8Q4Q).
+Чтобы разобраться с основами вы, как всегда, можете посмотреть [**запись нашего семинара**](https://www.youtube.com/watch?v=-MZgt5pTS4g) и прорешать [**[seminar]matplotlib.ipynb**](./[seminar]matplotlib.ipynb) [<img src="https://colab.research.google.com/assets/colab-badge.svg" align="center">](https://colab.research.google.com/drive/1R0nKyoZ3ANd4vukogEqM3egPJpvnFq41). 
+
+Cвериться можно с [**[sem_solution]pandas.ipynb**](./[sem_solution]pandas.ipynb) [<img src="https://colab.research.google.com/assets/colab-badge.svg" align="center">](https://colab.research.google.com/drive/1Y5jT0-LBISKJ1MbT_BhXjkKNaEpkgbc6)
+
+Также есть дополнительный ноутбук о matplotlib, который рекомендуется пройти продвинутым слушателям [**extra/[extra_seminar]matplotlib.ipynb**](./extra/[extra_seminar]matplotlib.ipynb) [<img src="https://colab.research.google.com/assets/colab-badge.svg" align="center">](https://colab.research.google.com/drive/18eQf3-QF0p_LljHkxQfgO7Iz5YUREZHO).
+
+**Примечание**: на семинаре были разобраны только базовые функции Pandas и matplotlib. Чтобы узнать о них больше, вы можете исппрйоти ользовать любой хороший курс по машинному обучению. Например, [курс от сообщества Open Data Science](https://habr.com/ru/company/ods/blog/322626/).
 
 ### Домашнее задание
 
-В качестве домашнего задания Вам предстоит разобраться с различными функциями активации: [**[homework]activations.ipynb**](./[homework]activations.ipynb) [<img src="https://colab.research.google.com/assets/colab-badge.svg" align="center">](https://colab.research.google.com/drive/1N6PESAeWC1WbRdfKeSFf-r5M4-1mMuqo).
+[**[homework]pandas.ipynb**](./[homework]pandas.ipynb) [<img src="https://colab.research.google.com/assets/colab-badge.svg" align="center">](https://colab.research.google.com/drive/1aLOZ4Uw9geV-nn2p2qEPwzDcASV43W3W)и [**[homework]knn.ipynb**](./[homework]knn.ipynb) [<img src="https://colab.research.google.com/assets/colab-badge.svg" align="center">](https://colab.research.google.com/drive/1Zu4WVMiL-wS64c95bdQLNfcqMqFY8qSF) помогут закрепить материал с семинара и лекции. 
+
+Если вы участвуете в курсе "официально", то вы можете проверить ответы и получить оценку в **Canvas**-странице нашего курса. Не слушатели, к сожалению, не имеют возможности свериться, но Вы можете присоединиться к следующей итерации курса как онлайн слушатель (см. ссылки на нашем официальном сайте).
