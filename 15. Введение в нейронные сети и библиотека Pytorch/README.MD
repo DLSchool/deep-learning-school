@@ -34,7 +34,7 @@
 В качестве домашнего задания Вам предстоит разобраться с различными функциями активации: [**[homework]activations.ipynb**](./[homework]activations.ipynb) [<img src="https://colab.research.google.com/assets/colab-badge.svg" align="center">](https://colab.research.google.com/drive/1N6PESAeWC1WbRdfKeSFf-r5M4-1mMuqo).
 
 
-# 6. PyTorch и Многослойные нейронные сети
+### PyTorch и Многослойные нейронные сети
 
 Приветствуем Вас на **шестом** занятии нашего курса. Сегодняшнее занятие будет посвящено **PyTorch**, очень мощному и современному фреймворку, на котором создаются нейронные сети. В конце занятия мы познакомимся с первым видом нейронных сетей -- **Multi-Layer Perceptron (MLP)**, или **Fully-Connected Network (FC)**, по-русски **Полносвязные нейросети**. 
 
