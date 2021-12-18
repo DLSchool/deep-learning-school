@@ -23,7 +23,7 @@
 
 **NumPy** - мощная библиотека для **Python**, которая реализует операции с матрицами и векторами. Очень важно научится ей пользоваться, потому что API **PyTorch** (более продвинутой библиотеки, которую мы будем использовать для построения нейронных сетей) похож на NumPy и следует той же логике.
 
-Познакомиться с **NumPy** Вам поможет [**запись семинара**](https://www.youtube.com/watch?v=D6qFFVmsRos). Чтобы сделать просмотр эффективнее, предлагается останавливать запись и выполнять задания из  [**[seminar]numpy.ipynb**](./[seminar]numpy.ipynb)[<img src="https://colab.research.google.com/assets/colab-badge.svg" align="center">](https://colab.research.google.com/drive/1g09YewT5tiORRHjNsvKM-59aL5wzHRnQB) параллельно с семинаристом.
+Познакомиться с **NumPy** Вам поможет [**запись семинара**](https://www.youtube.com/watch?v=D6qFFVmsRos). Чтобы сделать просмотр эффективнее, предлагается останавливать запись и выполнять задания из  [**[seminar]numpy.ipynb**](./[seminar]numpy.ipynb)[<img src="https://colab.research.google.com/assets/colab-badge.svg" align="center">] параллельно с семинаристом.
 
 ### Библиотека Matplotlib
 
