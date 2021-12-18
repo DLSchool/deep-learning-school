@@ -32,7 +32,7 @@ Neural Style Transfer - техника, которая позволяет пер
   
 В действительности... оба лица нарисованы нейросетью :)
 
-Чтобы более детально узнать как работают GAN'ы, предлагаем посомтреть вторую часть [**записи нашего семинара**](https://www.youtube.com/watch?v=Anocy4ey0vs) и прорешать ноутбук: [**[seminar]gan.ipynb**](./[seminar]gan.ipynb) [<img src="https://colab.research.google.com/assets/colab-badge.svg" align="center">](https://colab.research.google.com/drive/1Ub3c79XxiGmHOqKnuSDtjE5TscWhJVak). Также вам помогут [слайды](./Generative models pt.2.pdf), которые использовались на семинаре.
+Чтобы более детально узнать как работают GAN'ы, предлагаем посомтреть вторую часть [**записи нашего семинара**](https://www.youtube.com/watch?v=Anocy4ey0vs) и прорешать ноутбук: [**[seminar]gan.ipynb**](./[seminar]gan.ipynb) [<img src="https://colab.research.google.com/assets/colab-badge.svg" align="center">](https://colab.research.google.com/drive/1Ub3c79XxiGmHOqKnuSDtjE5TscWhJVak). Также вам помогут [слайды](./Generative%20models%20pt.2.pdf), которые использовались на семинаре.
 
 ---
 
