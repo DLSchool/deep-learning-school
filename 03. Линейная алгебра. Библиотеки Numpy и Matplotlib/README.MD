@@ -21,10 +21,6 @@
 
 Познакомиться с **NumPy** Вам поможет [**запись второй части семинара**](https://www.youtube.com/watch?v=kSbjRclCMOs&list=PL0Ks75aof3ThkitsZbUOEQg7Ybl5kB_s3&index=4). Чтобы сделать просмотр эффективнее, предлагается останавливать запись и выполнять задания из  [**[seminar]numpy.ipynb**](./[seminar]numpy.ipynb) [<img src="https://colab.research.google.com/assets/colab-badge.svg" align="center">](https://colab.research.google.com/drive/1g09YewT5tiORRHjNsvKM-59aL5wzHRnQB) параллельно с семинаристом.
 
-### Домашнее задание по NumPy
-
-Изучить такую обширную библиотеку за один семинар невозможно, поэтому важно выполнить **домашнюю работу:** [**[homework]numpy.ipynb**](./[homework]numpy.ipynb) [<img src="https://colab.research.google.com/assets/colab-badge.svg" align="center">](https://colab.research.google.com/drive/1ZwgR3ANspp4QMWY_J9Pf6UBsNkvovWhz). 
-
 ### Дополнительные материалы
 
 Узнать больше о линейной алгебре вы можете на отличном сайте [MathProfi](http://www.mathprofi.ru/vektory_dlya_chainikov.html). Также есть очень интересный канал [3Blue1Brown](https://www.youtube.com/watch?v=fNk_zzaMoSs) с видео на английском языке, в которых автор рассказывает и **показывает** интуицию, которая стоит за сложными математическими объектами.
