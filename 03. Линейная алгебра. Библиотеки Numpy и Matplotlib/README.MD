@@ -4,11 +4,16 @@
 Приветствуем Вас на **втором** занятии нашего курса. Мы продолжаем осваивать необходимые для глубокого обучения инструменты. Основным фокусом нашего сегодняшнего занятия является **линейная алгебра**. Она предоставляет очень удобное представление для работы с данными - **векторы и матрицы**. Их использование позволяет производить однотипные операции сразу с большим количеством чисел, что часто пригождается в машинном и глубоком обучении.
 
 Лекция состоит из четырёх частей:
+
 [**Часть 1. Векторы**](https://www.youtube.com/watch?v=fyu2KiC2gwY)
+
 [**Часть 2. Матрицы**](https://www.youtube.com/watch?v=uIx5Cegf6Bk)
+
 [**Часть 3. Операции над матрицами**](https://www.youtube.com/watch?v=O6Z7BaJUoaA)
+
 [**Часть 4. Линейные операторы**](https://www.youtube.com/watch?v=nJMD5z0RaWQ)
 
+[ссылка на презентацию](https://docs.google.com/presentation/d/1RkQ49nDemsOVCER4JgI-z9jqE2tvpL7HEE1I1rmJ-iI/edit?usp=sharing)
 
 
 <p align=center>
@@ -27,7 +32,7 @@
 
 **NumPy** - мощная библиотека для **Python**, которая реализует операции с матрицами и векторами. Очень важно научится ей пользоваться, потому что API **PyTorch** (более продвинутой библиотеки, которую мы будем использовать для построения нейронных сетей) похож на NumPy и следует той же логике.
 
-Познакомиться с **NumPy** Вам поможет [**запись второй части семинара**](https://www.youtube.com/watch?v=kSbjRclCMOs&list=PL0Ks75aof3ThkitsZbUOEQg7Ybl5kB_s3&index=4). Чтобы сделать просмотр эффективнее, предлагается останавливать запись и выполнять задания из  [**[seminar]numpy.ipynb**](./[seminar]numpy.ipynb) [<img src="https://colab.research.google.com/assets/colab-badge.svg" align="center">](https://colab.research.google.com/drive/1g09YewT5tiORRHjNsvKM-59aL5wzHRnQB) параллельно с семинаристом.
+Познакомиться с **NumPy** Вам поможет [**запись семинара**](https://www.youtube.com/watch?v=D6qFFVmsRos). Чтобы сделать просмотр эффективнее, предлагается останавливать запись и выполнять задания из  [**[seminar]numpy.ipynb**](./[seminar]numpy.ipynb) [<img src="https://colab.research.google.com/assets/colab-badge.svg" align="center">](https://colab.research.google.com/drive/1g09YewT5tiORRHjNsvKM-59aL5wzHRnQB) параллельно с семинаристом.
 
 ### Дополнительные материалы
 
