@@ -1,4 +1,3 @@
 ### 17. Домашнее задание. Полносвязные и свёрточные нейронные сети
 
-Домашняя работа в этом занятии очень объемная, поэтому стоит приступить к ней как можно раньше. Тетрадка [**[homework]cnn.ipynb**](./[homework]cnn.ipynb) [<img src="https://colab.research.google.com/assets/colab-badge.svg" align="center">](https://colab.research.google.com/drive/1J2i64P4KQMC5mkE_bYwP2XuKj7-rISo-)
-
+В этом домашнем задании вам предстоит заполнить ноутбук [**[homework]cnn.ipynb**](./[homework]dense_and_convolutional_nn.ipynb) [<img src="https://colab.research.google.com/assets/colab-badge.svg" align="center">](https://colab.research.google.com/drive/19x6IAzBbufIMhN_SeUGTq_iPoTBq9-uE). Ваша главная цель -- это заполнить пропуски в клетках с кодом. Обратите внимание, что это задание также подразумевает peer review. Для упрощения процедуры peer review, мы ввели контрольные вопросы, на которые вам нужно ответить после выполнения каждого смыслового куска заполненного вами кода. 
