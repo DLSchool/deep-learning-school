@@ -20,7 +20,7 @@
 
 В этом семинаре Аркадий Боков расскажет о том, как создаются модели машинного обучения для решения настоящих задач. Это очень важно, потому что процесс обучения нейронных сетей и обычных моделей очень похож.
 
-[ноутбук семинара](./model_selection_ensembles.ipynb)
+[**ноутбук семинара**](./model_selection_ensembles.ipynb) [<img src="https://colab.research.google.com/assets/colab-badge.svg" align="center">](https://colab.research.google.com/drive/175J_CAuC3C_-XpssbhwyFmJEfj-egyj6)
 
 [Model Selection](https://www.youtube.com/watch?v=B03CrtpYDi4)
 
