@@ -29,11 +29,6 @@
 
 [**Свёртка. Пулинг**](https://www.youtube.com/watch?v=6TMeFrRCJ_0) - как работают свертки и пулинги в PyTorch.
 
-[**Свёрточные сети**](https://www.youtube.com/watch?v=xgVr9vISm8w) - научимся обучать сверточные нейросети в PyTorch'е.
-
-
-### Семинар: Сверточные нейросети на PyTorch
-
-Теперь пришло время использовать наши теоретические знания и создать свою сверточную нейросеть на PyTorch для классификации датасета CIFAR10: [**[seminar]convnet_pytorch.ipynb**](./[seminar]convnet_pytorch.ipynb) [<img src="https://colab.research.google.com/assets/colab-badge.svg" align="center">](https://colab.research.google.com/drive/1OqQ4r0lo-Mm-6JBmNu9wsD_MfLbWwg7s). С выполнением заданий Вам поможет запись семинара, ссылка на которую уже есть выше. 
+[**Свёрточные сети**](https://www.youtube.com/watch?v=xgVr9vISm8w) - теперь пришло время использовать наши теоретические знания и создать свою сверточную нейросеть на PyTorch для классификации датасета CIFAR10: [**[seminar]convnet_pytorch.ipynb**](./[seminar]convnet_pytorch.ipynb) [<img src="https://colab.research.google.com/assets/colab-badge.svg" align="center">](https://colab.research.google.com/drive/1zytk-SjEzVg_kXiiynlSgVKu8Yd1Ckgh). С выполнением заданий Вам поможет запись семинара. 
 
 Обратите внмиание на то, насколько лучше сверточные нейросети подходят для классификации картинок, чем просто полносвязные (Fully-Connected) нейросети.
