@@ -1,7 +1,9 @@
 
 ### 23. Нейронная детекция объектов
 
-Приветствуем Вас на **тринадцатом** занятии нашего курса. Сегодня мы познакомимся с еще одной задачей, которую умеют решать нейронные сети - Object Detection (обнаружение объектов интеерсующих классов на картинке). В ходе занятия Вы познакомитесь с основными архитектурами нейросетей, которые используются для решения этой задачи, а в домашнем задании примените нейросеть YOLOv3 на практике.
+Привет!
+
+В этом занятии вам предстоит познакомиться с задачей детекции и нейросетевыми методами её решения - Object Detection (обнаружение объектов интеерсующих классов на картинке). В ходе занятия Вы познакомитесь с основными архитектурами нейросетей, которые используются для решения этой задачи.
 
 <p align=center>
   <img src="https://cdn.filestackcontent.com/PyosrcISSROz1ON9zxhr" width=700>
@@ -9,20 +11,26 @@
 
 ### Лекция: Основы детектирования объектов
 
-Существует несколько типов детекторов, они отличаются основной идеей, архитектурой нейросети и функцией потерь. Наиболее популярные детекторы сейчас: **Faster-RCNN**, **SSD** и **YOLO**. Изучить их будет достаточно, чтобы понять основные идеи, использующиеся в Object Detection. 
+[**презентация**](./Neural%20Object%20Detection.pptx)
 
-Узнать об устройстве этих детекторов и метриках качества, традиционно применяющихся в Object Detection, вы можете из [**записи**](https://www.youtube.com/watch?v=ewkSI2cuyoQ) лекции. В конце лекции рассматривается алгоритм YOLOv3, готовую реализацию которого Вы используете в домашнем задании.
+Узнать об устройстве этих детекторов и метриках качества, традиционно применяющихся в Object Detection, вы узнаете из лекции.
 
-### Семинар: TensorFlow Object Detection API
+[**Нейронная детекция объектов. Классификация (повторение)**](https://www.youtube.com/watch?v=8D01Xo9hWgg)
 
-Для практического применения намного удобнее использовать готовые решения, чем писать свои с нуля. В Object Detection есть такое готовое решение - TensorFlow Object Detection API. Научиться с ним работать Вам поможет [**запись**](https://www.youtube.com/watch?v=xHIzyrU1uVM) семинара. 
+[**Лекция. Нейронная детекция объектов. Основы**](https://www.youtube.com/watch?v=Y4JvVOaZWsU)
 
-Как и всегда, Вы получите наибольшую пользу от семинара, если параллельно откроете тетрадку [**[seminar]object_detection.ipynb**](./[seminar]object_detection.ipynb) [<img src="https://colab.research.google.com/assets/colab-badge.svg" align="center">](https://colab.research.google.com/drive/1zaNAUylCD4wKe2pk4YGI1yFIs5IXjx77) и будете постепенно ее просматривать, останавливаясь и используя поисковик, если что-то непонятно.
+[**Лекция. Нейронная детекция объектов. Двухстадийные нейросети**](https://www.youtube.com/watch?v=WrKl7GHWilA)
 
-### Домашнее задание 
+[**Лекция. Нейронная детекция объектов. Одностадийные нейросети**](https://www.youtube.com/watch?v=OPK63uqAQLs) - 
 
-В домашнем задании Вам предстоит обучить готовую модель YOLOv3 на свой датасете. Модель написана на TensorFlow,  а не PyTorch, с которым мы работали до сих пор, поэтому Вам может понадобиться небольшое введение в Tensorflow. В этом Вам поможет тетрадка  [**[homework]tensorflow.ipynb**](./[homework]tensorflow.ipynb) [<img src="https://colab.research.google.com/assets/colab-badge.svg" align="center">](https://colab.research.google.com/drive/1Orq_5zAOGvN5MOihonyheXPbdj-NuUHs).  
+[**Лекция. Нейронная детекция объектов. Современные подходы и задачи**](https://www.youtube.com/watch?v=6WXUNNYysww)
 
-Если в процессе выполнения задания Вы поймете, что Вам не хватает знаний о TF, то Вы можете дополнительно посмотреть [официальные примеры и туториалы](https://www.tensorflow.org/tutorials).
+### Семинар: Нейронная детекция объектов
 
-Теперь пришло время перейти к тетрадке [**[homework]yolov3_detection.ipynb**](./[homework]yolov3_detection.ipynb) [<img src="https://colab.research.google.com/assets/colab-badge.svg" align="center">](https://colab.research.google.com/drive/12pl46i2MvKCImS1qkiTFwqQVUcM6k-lG). Постарайтесь выполнить все задания, в том числе и дополнительное, потому что оно - самое важное для "реальной" практики. 
+[**тетрадка семинара 1**](./nvidia_ssd_tutorial.ipynb) [<img src="https://colab.research.google.com/assets/colab-badge.svg" align="center">](https://colab.research.google.com/drive/1WGuB27unzid2h8VNu_GCMJByGWCd3ibh)
+
+[**Нейронная детекция объектов. Запуск SSD, TorchHub**](https://www.youtube.com/watch?v=JX6N74K84n0) - изучим способ заргузки SSD с помощью TorchHub и делать инференс.
+
+[**тетрадка семинара 2**](./mmdetection_tutorial.ipynb) [<img src="https://colab.research.google.com/assets/colab-badge.svg" align="center">](https://colab.research.google.com/drive/196CEVgE66QvoO7F-nyZSZEJXkfKlFqzs)
+
+[**Нейронная детекция объектов. Обучение SSD, mmdetection**](https://www.youtube.com/watch?v=gw_IXcbhOO0) - обучение модели для детекции с помощью mmdetection, интеграция своего датасета, измерение качества сети.
