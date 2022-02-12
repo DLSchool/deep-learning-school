@@ -4,7 +4,7 @@
 
 ### Лекция: введение в NLP
 
-[запись вводной лекции](https://www.youtube.com/watch?v=d0oV1MZ_KdE)
+[Введение в NLP](https://www.youtube.com/watch?v=d0oV1MZ_KdE)
 
 [презентация](./Введение%20в%20NLP.pdf)
 
@@ -16,4 +16,4 @@
 
 [Решение задачи классификации текста](https://www.youtube.com/watch?v=ltyWeIPrAVA)
 
-[ноутбук семинара](./[seminar]text_preprocessing_and_classification.ipynb)
+[ноутбук семинара](./[seminar]text_preprocessing_and_classification.ipynb) [<img src="https://colab.research.google.com/assets/colab-badge.svg" align="center">](https://colab.research.google.com/drive/1FHZVU6yJT61J8w1hALno0stD4VU36rit)
